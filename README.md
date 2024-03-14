@@ -3,7 +3,7 @@ A compilation of my projects in Data Science, Artificial Intelligence, Machine L
 <br> Natural Language Processing, and Data Analysis.
 
 ---
-## Other Projects
+## Projects Repositories
 [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)
 [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/)
 [![Netflix-top10](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=Netflix-top10-dataset&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/Netflix-top10-dataset/)
