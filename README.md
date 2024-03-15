@@ -1,6 +1,36 @@
-# Data Science Portfolio:
+<a href="https://www.linkedin.com/in/thitirat-meennuch">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thitiratmnc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+# Data Science Portfolio 
+
 A compilation of my projects in Data Science, Artificial Intelligence, Machine Learning, 
 <br> Natural Language Processing, and Data Analysis.
+   
+
+
+<details><summary>Facial Expression Recognition System</summary>
+<br>
+
+**A system that automatically monitors people's emotions and expressions based on facial images**
+  
+- The dataset comprises 2000 images with facial key-point annotations and <br> 20,000 facial images, each labeled with facial expression categories.
+  
+- The tasks include detecting **facial key points** and <br> categorizing each face into one of five **emotion** categories.
+
+**Tasks :**
+- Perform image visualizations to understand the dataset.
+- Perform **image augmentation** to increase dataset diversity.
+- Conduct data **normalization** and prepare training data for model training.
+- Build deep Convolutional Neural Networks **(CNNs)** and residual neural network **(RESNET)** models for facial key points detection.
+- Save the trained model for **deployment**.
+
+</details>
+
 
 ---
 ## Projects Repositories
