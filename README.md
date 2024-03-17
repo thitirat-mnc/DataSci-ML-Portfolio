@@ -15,6 +15,7 @@ A compilation of my projects in Data Science, Artificial Intelligence, Machine L
 
 <details><summary>Facial Expression Recognition System</summary>
 <br>
+    
 **A system that automatically monitors people's emotions and expressions based on facial images**
   
 - The dataset comprises 2000 images with facial key-point annotations and <br> 20,000 facial images, each labeled with facial expression categories.
@@ -33,7 +34,7 @@ A compilation of my projects in Data Science, Artificial Intelligence, Machine L
 <details><summary>Restaurant Reviews Classification</summary>
 <br>
     
-**aspect classification and sentiment analysis**
+**Aspect classification and sentiment analysis**
   
 - The dataset contains 3156 rows. The text is drawn from restaurant reviews, tokenized using nltk.word_tokenize and <br> non-English alphabet symbols were cleaned out using regular expression
   
