@@ -6,11 +6,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-# Data Science Portfolio 
+# Portfolio 
 
 A compilation of my projects in Data Science, Artificial Intelligence, Machine Learning, 
 <br> Natural Language Processing, and Data Analysis.
-   
 
 
 <details><summary>Facial Expression Recognition System</summary>
