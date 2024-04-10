@@ -29,12 +29,12 @@
 
 - ### Credit Card Market Segmentation and Cluster Prediction - [*Explore Project*](https://github.com/thitirat-mnc/credit-card-customer-segmentation/tree/main) <a name="heading1-1"></a>
     - [x] *Python, Exploratory Data Analysis (EDA), Pandas, Clustering, PCA, Logistic Regression* <br>
-        [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)<img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/23fad05a-4afe-49ee-98b9-16ab577d40b5"> <img width="250" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/29c8be88-4f7d-4560-86d2-686d2fcb637e">
+        [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)<img width="130" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/23fad05a-4afe-49ee-98b9-16ab577d40b5"> <img width="240" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/29c8be88-4f7d-4560-86d2-686d2fcb637e">
 
 
 - ### Restuarants Rating Classification - [*Explore Project*](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <a name="heading1-2"></a>
     - [x] *Python, BERT, Logistic Regression, Pandas* <br>
-        [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <img width="140" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="140" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
+        [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
 ---
 <br>
 
