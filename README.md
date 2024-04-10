@@ -15,7 +15,7 @@
 - [Artificial Intelligence (AI)](#heading2)
   - [Facial Expression Recognition System](#heading3)
 - [Machine Learning for NLP](#heading2)
-  - [Aspect CateMachine Learning for NLP Projectsgory and Polarity Classification](#heading3)
+  - [Aspect Category and Polarity Classification](#heading3)
   - [Next Word Prediction](#heading3)
   - [Name Entity Recognition (NER) for Thai Language](#heading3)
 - [Project Repositories](#heading2)
