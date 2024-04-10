@@ -29,19 +29,19 @@
 
 - ### Credit Card Market Segmentation and Cluster Prediction - [*Explore Project*](https://github.com/thitirat-mnc/credit-card-customer-segmentation/tree/main) <a name="heading1-1"></a>
     - [x] *Python, Exploratory Data Analysis (EDA), Pandas, Clustering, PCA, Logistic Regression* <br>
-        [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)<img width="170" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/23fad05a-4afe-49ee-98b9-16ab577d40b5"> <img width="300" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/29c8be88-4f7d-4560-86d2-686d2fcb637e">
+        [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)<img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/23fad05a-4afe-49ee-98b9-16ab577d40b5"> <img width="250" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/29c8be88-4f7d-4560-86d2-686d2fcb637e">
 
 
 - ### Restuarants Rating Classification - [*Explore Project*](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <a name="heading1-2"></a>
     - [x] *Python, BERT, Logistic Regression, Pandas* <br>
-        [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
+        [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
 ---
 <br>
 
 ## Artificial Intelligence (AI) Projects <a name="heading2"></a>
 - ### Facial Expression Recognition System - [*Explore Project*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/tree/main/Facial%20Recognition) <a name="heading2-1"></a>
     - [x] *Python, Exploratory Data Analysis (EDA), Pandas, OpenCV, Image augmentation, Data normalization, Tensorflow, CNNs, RESNET* <br>
-        <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/41985af9-023c-4e80-84a3-563fdf03cfe6"> <img width="250" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/f47f7375-db7c-4856-ae30-7870c0b91b8e"> <img width="250" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/1f5d6889-bb9e-40c0-ab63-c12974c243fd">
+        <img width="160" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/41985af9-023c-4e80-84a3-563fdf03cfe6"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/f47f7375-db7c-4856-ae30-7870c0b91b8e"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/1f5d6889-bb9e-40c0-ab63-c12974c243fd">
         
          <details><summary>Overview</summary>
           <ul>
