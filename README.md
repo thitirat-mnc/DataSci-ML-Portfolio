@@ -22,6 +22,10 @@
   - [Business Idea Generator App using Langchain and Large Language Model (LLM)](#heading3-4)
 - [Research Paper](#heading4)
   - [Enhancing GPT-3.5 for Zero-Shot Thai Intent Classification via Cross-Lingual Prompts, Chain-of-Thought, and Self-Consistency](#heading4-1)
+- Data Analysis and visualization
+  - Netflix Top 10 and Financial Data Analysis
+  - My Tableau Dashboard
+  - Google Spreadsheet / Excel
 - [Project Repositories](#heading5)
 - [Data Engineer Workshop](#heading6)
 
@@ -29,63 +33,67 @@
 
 - ### Credit Card Market Segmentation and Cluster Prediction - [*Explore Project*](https://github.com/thitirat-mnc/credit-card-customer-segmentation/tree/main) <a name="heading1-1"></a>
     - [x] *Python, Exploratory Data Analysis (EDA), Pandas, Clustering, PCA, Logistic Regression* <br>
-        [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)
+    
+    [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)
 
-        <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/23fad05a-4afe-49ee-98b9-16ab577d40b5"> <img width="500" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/29c8be88-4f7d-4560-86d2-686d2fcb637e">
+    <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/23fad05a-4afe-49ee-98b9-16ab577d40b5"> <img width="500" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/29c8be88-4f7d-4560-86d2-686d2fcb637e">
 
 
 - ### Restuarants Rating Classification - [*Explore Project*](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <a name="heading1-2"></a>
     - [x] *Python, BERT, Logistic Regression, Pandas* <br>
-        [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
+    
+    [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/) <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="150" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
 ---
 <br>
 
 ## Artificial Intelligence (AI) Projects <a name="heading2"></a>
 - ### Facial Expression Recognition System - [*Explore Project*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/tree/main/Facial%20Recognition) <a name="heading2-1"></a>
     - [x] *Python, Exploratory Data Analysis (EDA), Pandas, OpenCV, Image augmentation, Data normalization, Tensorflow, CNNs, RESNET* <br>
-        <img width="160" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/41985af9-023c-4e80-84a3-563fdf03cfe6"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/f47f7375-db7c-4856-ae30-7870c0b91b8e"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/1f5d6889-bb9e-40c0-ab63-c12974c243fd">
-        
-         <details><summary>Overview</summary>
+    
+    <img width="160" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/41985af9-023c-4e80-84a3-563fdf03cfe6"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/f47f7375-db7c-4856-ae30-7870c0b91b8e"> <img width="200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/1f5d6889-bb9e-40c0-ab63-c12974c243fd">
+
+    <details><summary>Overview</summary>
+      <ul>
+        <li><strong>A system that automatically monitors people's emotions and expressions based on facial images</strong>
           <ul>
-            <li><strong>A system that automatically monitors people's emotions and expressions based on facial images</strong>
-              <ul>
-                <li>The dataset comprises 2000 images with facial key-point annotations and 20,000 facial images, each labeled with facial expression categories.</li>
-                <li>The tasks include detecting <strong>facial key points</strong> and categorizing each face into one of five <strong>emotion</strong> categories.</li>
-              </ul>
-            </li>
-            <li><strong>Tasks:</strong>
-              <ul>
-                <li>Perform image visualizations to understand the dataset.</li>
-                <li>Perform <strong>image augmentation</strong> to increase dataset diversity.</li>
-                <li>Conduct data <strong>normalization</strong> and prepare training data for model training.</li>
-                <li>Build deep Convolutional Neural Networks <strong>(CNNs)</strong> and residual neural network <strong>(RESNET)</strong> models for facial key points detection.</li>
-                <li>Save the trained model for <strong>deployment</strong>.</li>
-              </ul>
-            </li>
+            <li>The dataset comprises 2000 images with facial key-point annotations and 20,000 facial images, each labeled with facial expression categories.</li>
+            <li>The tasks include detecting <strong>facial key points</strong> and categorizing each face into one of five <strong>emotion</strong> categories.</li>
           </ul>
-        </details>
+        </li>
+        <li><strong>Tasks:</strong>
+          <ul>
+            <li>Perform image visualizations to understand the dataset.</li>
+            <li>Perform <strong>image augmentation</strong> to increase dataset diversity.</li>
+            <li>Conduct data <strong>normalization</strong> and prepare training data for model training.</li>
+            <li>Build deep Convolutional Neural Networks <strong>(CNNs)</strong> and residual neural network <strong>(RESNET)</strong> models for facial key points detection.</li>
+            <li>Save the trained model for <strong>deployment</strong>.</li>
+          </ul>
+        </li>
+      </ul>
+    </details>
 
 - ### Brain Tumor Detection and Localization - [*Explore Project*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/tree/main/Brain%20Tumor%20Detection%20and%20Localization) <a name="heading2-2"></a>
     - [x] *Python, Exploratory Data Analysis (EDA), Pandas, scikit-learn, OpenCV, Image Segmentation, Tensorflow, ResNet50, ResUNet* <br>
-        <img width="1200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/8d9d29ae-1143-4206-80e9-142da8499ed7">
+    
+    <img width="1200" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/8d9d29ae-1143-4206-80e9-142da8499ed7">
 
-         <details><summary>Overview</summary>
+     <details><summary>Overview</summary>
+      <ul>
+        <li><strong>Improve the speed and accuracy of brain tumors detection and localization based in MRI scans</strong>
           <ul>
-            <li><strong>Improve the speed and accuracy of brain tumors detection and localization based in MRI scans</strong>
-              <ul>
-                <li>The data comprises 3929 Brain MRI scans with brain tumor location from https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation</li>
-                <li>The tasks include <strong> classification to detect if tumor exists or not</strong> and <strong>localizing the tumor</strong> if exists/li>
-              </ul>
-            </li>
-            <li><strong>Tasks:</strong>
-              <ul>
-                <li>Perform data visualizations to understand the dataset.</li>
-                <li>Training <strong>classifier model to detect tumor</strong></li>
-                <li>Train a segmentation ResUNet model to localize tumor if exist</li>
-              </ul>
-            </li>
+            <li>The data comprises 3929 Brain MRI scans with brain tumor location from https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation</li>
+            <li>The tasks include <strong> classification to detect if tumor exists or not</strong> and <strong>localizing the tumor</strong> if exists/li>
           </ul>
-        </details>
+        </li>
+        <li><strong>Tasks:</strong>
+          <ul>
+            <li>Perform data visualizations to understand the dataset.</li>
+            <li>Training <strong>classifier model to detect tumor</strong></li>
+            <li>Train a segmentation ResUNet model to localize tumor if exist</li>
+          </ul>
+        </li>
+      </ul>
+    </details>
 ---
 <br>
 
@@ -93,32 +101,32 @@
 - ### Business Idea Generator App (BizGen) using Langchain and Large Language Model (LLM) - [*Explore Project*](https://github.com/thitirat-mnc/BizGen/) <a name="heading3-1"></a>
     - [x] *Python, Langchain, OpenAI, LLM* <br>
         
-        [![BizGen](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=BizGen&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/BizGen/) <img width="300" alt="Screenshot 2567-04-11 at 02 36 33" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/322185c5-afd9-45f0-8b2b-d7c6d18327db">
+    [![BizGen](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=BizGen&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/BizGen/) <img width="300" alt="Screenshot 2567-04-11 at 02 36 33" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/322185c5-afd9-45f0-8b2b-d7c6d18327db">
 
 - ### Aspect Category and Polarity Classification - [*Explore Project*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/tree/main/Restuarant-Review%20Sentiment-Aspect%20Classification)  <a name="heading3-2"></a>
     - [x] *Python, Pandas, nltk toolkit, Spacy, Logistic Regression, DAN, CNNs*<br>
     
-        <img width="300" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/a1af57b5-06ba-4554-b087-166623f64921"> <img width="300" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e9aa286b-3d45-428f-9f9b-93a139458296"> <img width="120" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/d0aa8e5e-28f1-4097-8945-a90409a0c121">
+    <img width="300" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/a1af57b5-06ba-4554-b087-166623f64921"> <img width="300" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e9aa286b-3d45-428f-9f9b-93a139458296"> <img width="120" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/d0aa8e5e-28f1-4097-8945-a90409a0c121">
 
-        <details><summary>Overview</summary>
-            <ul>
+    <details><summary>Overview</summary>
+        <ul>
+          <ul>
+            <li>The dataset contains 3156 rows. The text is drawn from restaurant reviews, tokenized using nltk.word_tokenize and non-English alphabet symbols were cleaned out using regular expression.</li>
+            <li>The tasks include categorizing each text review into one of five <strong>aspect categories</strong> and into one of four <strong>sentiments</strong>.</li>
+          </ul>
+           <li><strong>Tasks :</strong>
               <ul>
-                <li>The dataset contains 3156 rows. The text is drawn from restaurant reviews, tokenized using nltk.word_tokenize and non-English alphabet symbols were cleaned out using regular expression.</li>
-                <li>The tasks include categorizing each text review into one of five <strong>aspect categories</strong> and into one of four <strong>sentiments</strong>.</li>
+                <li>Bag-of-word <strong>logistic regression</strong> model as a baseline for both sentiment and aspect classification. The features are created from the cleaned text.</li>
+                <li>Perform <strong>oversampling</strong> by multiplying the number of conflict label data in the training set to increase dataset diversity.</li>
+                <li>Trained both <strong>multi-class</strong> and multi-label logistic regression models for aspect classification.</li>
+                <li>For <strong>multi-label</strong>, used a binary logistic regression model to train each aspect model separately, and combine the end result prediction.</li>
+                <li>For Deep Learning Models, tried both pre-trained <strong>GloVe</strong> 300-dimensional word embeddings from stanford.edu and <strong>Word2Vec</strong>.</li>
+                <li>Build <strong>Deep Averaging Network (DAN)</strong> and <strong>Convolutional Neural Network (CNN)</strong>.</li>
+                <li>Tuned Hyperparameters using <strong>grid search</strong>.</li>
               </ul>
-               <li><strong>Tasks :</strong>
-                  <ul>
-                    <li>Bag-of-word <strong>logistic regression</strong> model as a baseline for both sentiment and aspect classification. The features are created from the cleaned text.</li>
-                    <li>Perform <strong>oversampling</strong> by multiplying the number of conflict label data in the training set to increase dataset diversity.</li>
-                    <li>Trained both <strong>multi-class</strong> and multi-label logistic regression models for aspect classification.</li>
-                    <li>For <strong>multi-label</strong>, used a binary logistic regression model to train each aspect model separately, and combine the end result prediction.</li>
-                    <li>For Deep Learning Models, tried both pre-trained <strong>GloVe</strong> 300-dimensional word embeddings from stanford.edu and <strong>Word2Vec</strong>.</li>
-                    <li>Build <strong>Deep Averaging Network (DAN)</strong> and <strong>Convolutional Neural Network (CNN)</strong>.</li>
-                    <li>Tuned Hyperparameters using <strong>grid search</strong>.</li>
-                  </ul>
-              </li>
-           <ul>
-        </details>
+          </li>
+       <ul>
+    </details>
 
 
 - ### Next word Prediction - [*Explore Project*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/tree/main/Predicting%20Next%20Word)  <a name="heading3-3"></a>
