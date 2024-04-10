@@ -91,7 +91,7 @@
 
 
 - ### Next word Prediction - [*Explore Project*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/tree/main/Predicting%20Next%20Word)  <a name="heading3"></a>
-      - [x] *Python, Tensorflow, Pandas* <br>
+    - [x] *Python, Tensorflow, Pandas*<br>
   
     <img width="350" alt="Screenshot 2567-04-11 at 00 25 23" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b8a9bfc1-420b-48e6-9f8d-b09a3a9dc625">
     <details><summary>Overview</summary>
