@@ -203,16 +203,13 @@
 - ### Netflix Top 10 & Finance: Data Analysis & Insights - [*Explore Project*](https://github.com/thitirat-mnc/Netflix-top10-dataset/) <a name="heading5-1"></a>
     <div align="center">
         <a href="https://netflixvis.my.canva.site/#page-16">
-            <img width="450" alt="netflix_1" src="https://github.com/user-attachments/assets/1df913a0-1986-4266-bd12-01ce0d5efebc" />
+            <img width="485" alt="netflix_1" src="https://github.com/user-attachments/assets/1df913a0-1986-4266-bd12-01ce0d5efebc" />
         </a>
         <a href="https://netflixvis.my.canva.site/#page-16">
             <img width="450" alt="netflix_2" src="https://github.com/user-attachments/assets/cb174e97-9b39-482f-bd44-1b5b836992ed" />
         </a>
         <a href="https://netflixvis.my.canva.site/#page-16">
             <img width="600" alt="netflix_3" src="https://github.com/user-attachments/assets/19413e27-ecaa-429a-850f-22f2896b7a69" />
-        </a>
-        <a href="https://netflixvis.my.canva.site/#page-16">
-            <img width="600" alt="netflix_4" src="https://github.com/user-attachments/assets/8cb63a9a-6bd0-4bb3-a496-61db1f3c77c4" />
         </a>
     </div>
     <br>
