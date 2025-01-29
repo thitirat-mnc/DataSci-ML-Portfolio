@@ -1,10 +1,9 @@
-<a href="https://www.linkedin.com/in/thitirat-meennuch" target="_blank">
+<span onclick="window.open('https://www.linkedin.com/in/thitirat-meennuch', '_blank')">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:thitiratmnc@gmail.com">
+</span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span onclick="window.open('mailto:thitiratmnc@gmail.com')">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</span>
 
 # Portfolio 
 
