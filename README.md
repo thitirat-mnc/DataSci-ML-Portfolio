@@ -22,11 +22,11 @@
   - [Business Idea Generator App using Langchain and Large Language Model (LLM)](#heading3-4)
 - [Research Paper](#heading4)
   - [Enhancing GPT-3.5 for Zero-Shot Thai Intent Classification via Cross-Lingual Prompts, Chain-of-Thought, and Self-Consistency](#heading4-1)
-- Data Analysis and visualization
-  - [Netflix Top 10 and Financial Data Analysis](https://github.com/thitirat-mnc/Netflix-top10-dataset/)
-  - [My Tableau Dashboard](https://public.tableau.com/app/profile/thitirat.meennuch3890/vizzes)
-- [Project Repositories](#heading5)
-- [Data Engineer Workshop](#heading6)
+- [Data Analysis and visualization](#heading5)
+  - [Netflix Top 10 and Financial Data Analysis](#heading5-1)
+  - [My Tableau Dashboard](#heading5-2)
+- [Project Repositories](#heading6)
+- [Data Engineer Workshop](#heading7)
 
 ## Data Science & Machine Learning Projects <a name="heading1"></a>
 
@@ -185,10 +185,12 @@
 ---
 <br>
 
+
 ## Research Paper <a name="heading4"></a>
 - ### Enhancing GPT-3.5 for Thai Intent Classification via Cross-Lingual Prompts, Chain-of-Thought, and Self-Consistency - [*Read Paper*](https://github.com/thitirat-mnc/DataSci-ML-Portfolio/blob/main/Prompt%20Engineering%20(Cross-Lingual,%20Chain-of-Thought,%20Self-Consistency)/Enhancing_GPT-3.5_for_ZeroShot%20_ThaiIntentClassification.pdf) <a name="heading4-1"></a>
-
-    <img width="900" alt="cross_lingual_prompt" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/dbd36b0c-0507-45e7-848d-32b286f6123c">
+    <div align="center">
+        <img width="900" alt="cross_lingual_prompt" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/dbd36b0c-0507-45e7-848d-32b286f6123c">
+    </div>
 
     - proposes a method using Large Language Models (LLMs) and cross-lingual techniques.
     - enhance classification performance by prompting GPT 3.5 in English rather than Thai.
@@ -196,7 +198,47 @@
 ---
 <br>
 
-## Projects Repositories  <a name="heading5"></a>
+
+## Data Analysis and visualization <a name="heading5"></a>
+- ### Netflix Top 10 & Finance: Data Analysis & Insights - [*Explore Project*](https://github.com/thitirat-mnc/Netflix-top10-dataset/) <a name="heading5-1"></a>
+    <div align="center">
+        <a href="https://netflixvis.my.canva.site/#page-16">
+            <img width="450" alt="netflix_1" src="https://github.com/user-attachments/assets/1df913a0-1986-4266-bd12-01ce0d5efebc" />
+        </a>
+        <a href="https://netflixvis.my.canva.site/#page-16">
+            <img width="417" alt="netflix_2" src="https://github.com/user-attachments/assets/cb174e97-9b39-482f-bd44-1b5b836992ed" />
+        </a>
+        <a href="https://netflixvis.my.canva.site/#page-16">
+            <img width="510" alt="netflix_3" src="https://github.com/user-attachments/assets/19413e27-ecaa-429a-850f-22f2896b7a69" />
+        </a>
+        <a href="https://netflixvis.my.canva.site/#page-16">
+            <img width="352" alt="netflix_4" src="https://github.com/user-attachments/assets/8cb63a9a-6bd0-4bb3-a496-61db1f3c77c4" />
+        </a>
+    </div>
+    <br>
+
+    - Analyzed Netflix's shows and financial data to provide content strategies.
+    - Collected data on Netflix's Top 10 via API and performed Exploratory Data Analysis (EDA) on entertainment and financial datasets.
+    - Created storytelling visualizations using Tableau, Altair, and Vega, providing insights for global and local original content strategy on the streaming service.
+
+ 
+- ### Tableau Dashboards - [*Explore Dashboards*](https://public.tableau.com/app/profile/thitirat.meennuch3890/vizzes) <a name="heading5-2"></a>
+<div align="center">
+    <a href="https://public.tableau.com/app/profile/thitirat.meennuch3890/viz/Greatfit_17126131712510/Dashboard1">
+        <img width="450" src="https://github.com/user-attachments/assets/70c55f5f-6b10-471c-b730-1ae453d6bc41" />
+    </a>
+    <a href="https://public.tableau.com/app/profile/thitirat.meennuch3890/viz/ParkCityPeaksHotelPerformance/Dashboard1">
+        <img width="500" src="https://github.com/user-attachments/assets/3e85550d-193f-44ae-9bd6-a67e6a352e68" />
+    </a>
+    <a href="https://public.tableau.com/app/profile/thitirat.meennuch3890/viz/ThaiMigration/Dashboard1">
+        <img width="600" src="https://github.com/user-attachments/assets/c1ddedf1-4180-45bd-8fcc-033f8bea3153" />
+    </a>
+</div>
+
+---
+<br>
+
+## Projects Repositories  <a name="heading6"></a>
 [![CreditCard](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=credit-card-customer-segmentation&show_icons=true&theme=highcontrast)](https://github.com/thitirat-mnc/credit-card-customer-segmentation/)
 [![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/)
 [![Netflix-top10](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=Netflix-top10-dataset&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/Netflix-top10-dataset/)
@@ -204,5 +246,5 @@
 
 <br>
 
-## Data Engineer Workshop  <a name="heading6"></a>
+## Data Engineer Workshop  <a name="heading7"></a>
 [![Data-EngineerR2DE](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=Data-Engineer-Workshop-R2DE&show_icons=true&theme=catppuccin_latte)](https://github.com/thitirat-mnc/Data-Engineer-Workshop-R2DE/)
