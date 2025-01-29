@@ -225,13 +225,13 @@
 - ### Tableau Dashboards - [*Explore Dashboards*](https://public.tableau.com/app/profile/thitirat.meennuch3890/vizzes) <a name="heading5-2"></a>
 <div align="center">
     <a href="https://public.tableau.com/app/profile/thitirat.meennuch3890/viz/Greatfit_17126131712510/Dashboard1">
-        <img width="450" src="https://github.com/user-attachments/assets/70c55f5f-6b10-471c-b730-1ae453d6bc41" />
+        <img width="550" src="https://github.com/user-attachments/assets/70c55f5f-6b10-471c-b730-1ae453d6bc41" />
     </a>
     <a href="https://public.tableau.com/app/profile/thitirat.meennuch3890/viz/ParkCityPeaksHotelPerformance/Dashboard1">
-        <img width="500" src="https://github.com/user-attachments/assets/3e85550d-193f-44ae-9bd6-a67e6a352e68" />
+        <img width="600" src="https://github.com/user-attachments/assets/3e85550d-193f-44ae-9bd6-a67e6a352e68" />
     </a>
     <a href="https://public.tableau.com/app/profile/thitirat.meennuch3890/viz/ThaiMigration/Dashboard1">
-        <img width="600" src="https://github.com/user-attachments/assets/c1ddedf1-4180-45bd-8fcc-033f8bea3153" />
+        <img width="500" src="https://github.com/user-attachments/assets/c1ddedf1-4180-45bd-8fcc-033f8bea3153" />
     </a>
 </div>
 
