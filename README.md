@@ -24,7 +24,7 @@
   - [Enhancing GPT-3.5 for Zero-Shot Thai Intent Classification via Cross-Lingual Prompts, Chain-of-Thought, and Self-Consistency](#heading4-1)
 - Data Analysis and visualization
   - [Netflix Top 10 and Financial Data Analysis](https://github.com/thitirat-mnc/Netflix-top10-dataset/)
-  - My Tableau Dashboard
+  - [My Tableau Dashboard](https://public.tableau.com/app/profile/thitirat.meennuch3890/vizzes)
   - Google Spreadsheet / Excel
 - [Project Repositories](#heading5)
 - [Data Engineer Workshop](#heading6)
