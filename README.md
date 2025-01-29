@@ -44,7 +44,8 @@
 
 <div align="center">
     
-[![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/)<img width="220" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="220" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
+[![Restaurant Review](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=wongnai-restuarants-rating-classification&show_icons=true&theme=algolia)](https://github.com/thitirat-mnc/wongnai-restuarants-rating-classification/)
+<img width="220" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/b64e5c9a-adec-4c82-af9b-d714e7ab524e"> <img width="220" src="https://github.com/thitirat-mnc/DataSci-ML-Portfolio/assets/134206687/e0419034-d316-45e0-960e-0f13059f0d5b">
 
 </div>
 
