@@ -261,5 +261,7 @@
 
 ## Data Engineer Workshop  <a name="heading7"></a>
 <div align="center">
+
 [![Data-EngineerR2DE](https://github-readme-stats.vercel.app/api/pin/?username=thitirat-mnc&repo=Data-Engineer-Workshop-R2DE&show_icons=true&theme=catppuccin_latte)](https://github.com/thitirat-mnc/Data-Engineer-Workshop-R2DE/)
+
 </div>
