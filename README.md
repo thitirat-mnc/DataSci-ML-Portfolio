@@ -87,7 +87,7 @@
         <li><strong>Improve the speed and accuracy of brain tumors detection and localization based in MRI scans</strong>
           <ul>
             <li>The data comprises 3929 Brain MRI scans with brain tumor location from https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation</li>
-            <li>The tasks include <strong> classification to detect if tumor exists or not</strong> and <strong>localizing the tumor</strong> if exists/li>
+            <li>The tasks include <strong> classification to detect if tumor exists or not</strong> and <strong>localizing the tumor</strong> if exists</li>
           </ul>
         </li>
         <li><strong>Tasks:</strong>
